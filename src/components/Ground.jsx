@@ -4,7 +4,7 @@ import { groundTexture } from "../../images/textures";
 
 export const Ground = () => {
   const [ref] = usePlane(() => ({
-    rotation: [-Math.PI/4, 0, 0],
+    rotation: [-Math.PI/2, 0, 0],
     position: [0, 0, 0]
   }));
 
@@ -21,4 +21,4 @@ export const Ground = () => {
   );
 }
 
-camera.position.copy(new Vector3(pos.current[0], pos.current[1], pos.current[2]));
+// camera.position.copy(new Vector3(pos.current[0], pos.current[1], pos.current[2]));
