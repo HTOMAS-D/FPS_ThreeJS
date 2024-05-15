@@ -15,7 +15,7 @@ TO DO LIST:
 - Textures [+ -]
 - Ground [x]
 - Keyboard inputs [x]
-- Player []
+- Player [x]
 - First person view []
 - Gravity []
 - Movement []
