@@ -19,7 +19,7 @@ TO DO LIST:
 - First person view [x]
 - Gravity [x]
 - Movement [x]
-- State management []
+- State management [+ -]
 - Cubes []
 - Cube type []
 - Save world
