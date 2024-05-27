@@ -17,10 +17,10 @@ TO DO LIST:
 - Keyboard inputs [x]
 - Player [x]
 - First person view [x]
-- Gravity [x]
+- Gravity [x] 
 - Movement [x]
 - State management [+ -]
 - Cubes []
 - Cube type []
-- Save world
+- Save world 
 - Build house (?)
